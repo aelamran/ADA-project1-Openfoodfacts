@@ -57,8 +57,20 @@ Several results can be concluded from our research :
 
 ## Contribution of group members
 
-Ayyoub : Word Maps, Distribution plots, Data visualisation, Data Story.
+Ayyoub : Word Maps, Distribution plots, Data visualisation, Data Story blog
 
-Fatine : Data preprocessing, Folium maps, Data Story.
+Fatine : Data cleaning, Folium maps, Data Story Frontend
 
-Yassine : Data preprocessing, Spyder charts, Data Story.
+Yassine : Data preprocessing, Energy part, Spider charts, Data Story blog
+
+## References
+
+[1] Evolution of the number of products on Open Food Facts World
+
+[2] Le Monde, Santé, Alimentation : face aux doutes, les internautes s’organisent (2013, April 15). Retrieved from [https://www.lemonde.fr/sante/article/2013/04/15/alimentation-face-aux-doutes-les-internautes-s-organisent_3159792_1651302.html]
+
+[3] 5 Tips for Smart Snacking with diabetes, Posted by Liza Resurreccion On November 20, 2014, In Health and Wellness [https://www.medtronicdiabetes.com/loop-blog/5-tips-for-smart-snacking-with-diabetes/]
+
+[4] Thermochemistry and Nutrition
+
+[5] What’s the Difference between Carbohydrates & Sugar on Food Labels?
