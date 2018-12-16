@@ -59,7 +59,7 @@ Several results can be concluded from our research :
 
 Ayyoub : Word Maps, Distribution plots, Data visualisation, Data Story blog
 
-Fatine : Data cleaning, Folium maps, Data Story Frontend
+Fatine : Data cleaning, Folium maps, Data visualisation, Data Story Frontend
 
 Yassine : Data preprocessing, Energy part, Spider charts, Data Story blog
 
